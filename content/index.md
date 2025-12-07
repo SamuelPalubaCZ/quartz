@@ -1,33 +1,35 @@
 ---
 title: Samuel Paluba
-description: Student, developer, entrepreneur a politik z Prahy
+description: Zakladatel startupu, student kybernetické bezpečnosti a politik z Prahy
+tags:
+  - about
+  - homepage
 ---
 
 # 👋 Ahoj!
 
-**Samuel Paluba** (*2009)
+Jsem **Samuel Paluba** (*2009), zakladatel startupu a student kybernetické bezpečnosti na [SSPŠaG](https://ssps.cz) v Praze.
 
-Jsem student, developer a entrepreneur z Prahy. Zajímají mě IT, kybernetika, politika, fotografie a další...
+Zajímám se o IT, kybernetiku, politiku, fotografii a další témata. Aktivně se podílím na několika projektech zaměřených na technologie, svobodu a vzdělávání.
 
-## Projekty
+## 🚀 Aktuální projekty
 
-Aktuálně se podílím na těchto projektech:
+- **[[projects/thinkhome|ThinkHome]]** - CEO a zakladatel
+- **[[projects/libertyloft|LibertyLoft]]** - Spoluzakladatel
+- **[[projects/students-for-liberty|Students for Liberty CZ]]** - Lokální koordinátor
+- **[[education/ssps|Smíchovská SPŠ]]** - Student kybernetické bezpečnosti
 
-- **[ThinkHome](https://www.thinkhome.org)** - něco jako CEO
-- **[LibertyLoft](https://www.libertyloft.cz)** - spoluzařúdatel
-- **[Studenti za svobodu](https://studentizasvoboducz.cz)** - lokální koordínátor
-- **[Smíchovská střední průmyslová škola](https://ssps.cz)** - student
+## 📚 Oblasti zájmu
 
-## Kontakt
+- [[topics/cybersecurity|Kybernetická bezpečnost]]
+- [[topics/politics|Politika a svoboda]]
+- [[topics/technology|IT a technologie]]
+- [[topics/photography|Fotografie]]
 
-Pokud potřebujeteš cokoliv, neostýchej se mě kontaktovat:
+## 📬 Kontakt
 
-- **E-mail:** [samuel@paluba.me](mailto:samuel@paluba.me)
-- **Instagram:** [@user0906294455](https://instagram.com/user0906294455)
-- **Blog:** [blog.paluba.me](https://blog.paluba.me)
-- **LinkedIn:** [@samuel-paluba](https://www.linkedin.com/in/samuel-paluba)
-- **GitHub:** [@SamuelPalubaCZ](https://github.com/SamuelPalubaCZ)
+Pokud potřebuješ cokoliv, neostýchej se mě kontaktovat přes [[contact|kontaktní stránku]].
 
 ---
 
-Meow :3 🐈🐈‍⬛
+*Meow :3 🐈🐈‍⬛*
