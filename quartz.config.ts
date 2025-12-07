@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Samuel Paluba",
-    pageTitleSuffix: "Mmmm-meow?",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -66,14 +66,46 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({ 
+        enableInHtmlEmbed: false,
+        parseArrows: true,
+        parseTags: true,
+        parseBlockReferences: true,
+        enableYouTubeEmbed: true,
+        enableVideoEmbed: true,
+        enableCheckbox: true,
+      }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
-      Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.TableOfContents({
+        maxDepth: 3,
+        minEntries: 1,
+        showByDefault: true,
+        collapseByDefault: false,
+      }),
+      Plugin.CrawlLinks({ 
+        markdownLinkResolution: "shortest",
+        prettyLinks: true,
+        openLinksInNewTab: false,
+      }),
+      Plugin.Description({
+        descriptionLength: 150,
+      }),
+      Plugin.Latex({ 
+        renderEngine: "katex" 
+      }),
+      // Additional transformers
+      Plugin.HardLineBreaks(),
+      Plugin.Citations({
+        bibliographyFile: "./content/bibliography.bib",
+        suppressBibliography: false,
+        linkCitations: true,
+        csl: "apa",
+      }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [
+      Plugin.RemoveDrafts(),
+      Plugin.ExplicitPublish(),
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
@@ -83,12 +115,29 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        rssLimit: 10,
+        rssFullHtml: true,
+        includeEmptyFiles: false,
       }),
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      Plugin.CustomOgImages(),
+      Plugin.CNAME(),
+      // Custom OG images for social sharing
+      Plugin.CustomOgImages({
+        colorScheme: "dark",
+        font: {
+          title: {
+            family: "Inter",
+            weight: 700,
+          },
+          description: {
+            family: "Inter",
+            weight: 400,
+          },
+        },
+      }),
     ],
   },
 }
