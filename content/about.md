@@ -1,66 +1,58 @@
 ---
-title: O mně
-description: Detailní informace o Samuelu Palubovi
+title: O mně 
+description: Kdo je Samuel Paluba?
+permalink: about
 tags:
   - about
   - bio
 ---
 
-# O mně
+# Samuel Paluba
 
-## 👨‍💻 Kdo jsem
+> "Svoboda, technologie a vzdělávání jsou pilíře budoucnosti."
 
-Jsem Samuel Paluba, narozený v roce 2009 v Praze. Aktuálně studuji kybernetickou bezpečnost na Smíchovské střední průmyslové škole a gymnáziu (SSPŠaG) a zároveň vedu několik projektů.
+Jsem student, podnikatel a aktivista se zájmem o propojení technologií a společnosti. Narodil jsem se v roce 2009 a v současné době studuji kybernetickou bezpečnost v Praze.
 
-## 💼 Profesní zaměření
+## 🎓 Vzdělání a Kariéra
 
-### Současnost
-- **CEO a zakladatel** - [[projects/thinkhome|ThinkHome.org]]
-- **Spoluzakladatel** - [[projects/libertyloft|LibertyLoft]]
-- **Lokální koordinátor** - [[projects/students-for-liberty|Students for Liberty CZ]]
-- **Student** - Kybernetická bezpečnost na SSPŠaG
+### **Student Kybernetické Bezpečnosti**
+*📍 [Smíchovská střední průmyslová škola a gymnázium](https://ssps.cz)*
+Studuji obor zaměřený na kybernetickou bezpečnost, kde se věnuji tématům jako síťová bezpečnost, etický hacking a kryptografie. Získávám zde nejen teoretické znalosti, ale i praktické dovednosti v reálných projektech.
 
-### Expertíza
-- Full-stack web development (TypeScript, Next.js, React)
-- Kybernetická bezpečnost
-- DevOps a systémová administrace
-- IT konzultace a koordinace projektů
-- Podnikání a vedení týmů
+### **ThinkHome**
+*💼 CEO & Zakladatel*
+Vedu startup zaměřený na inovace v oblasti smart home a IoT. Naším cílem je přinášet chytrá řešení, která respektují soukromí uživatelů a jsou postavena na otevřených standardech.
 
-## 🎯 Zájmy a aktivity
+### **LibertyLoft**
+*🏢 Spoluzakladatel*
+Místo pro setkávání svobodomyslných lidí, workshopy a přednášky.
 
-### Technologie
-- Vývoj webových aplikací
-- Open-source projekty
-- IoT a mesh network (The Things Network Prague)
-- Hardware hacking
+### **Students for Liberty CZ**
+*🗽 Lokální koordinátor*
+Angažuji se v mezinárodní neziskové organizaci, která podporuje svobodu projevu, ekonomickou svobodu a individuální práva.
 
-### Politika a svoboda
-- Libertariánské ideje
-- Svoboda slova a projevu
-- Individuální svoboda
-- Studentská politická aktivita
+## 🛠 Dovednosti a Technologie
 
-### Další
-- Fotografie
-- Psaní článků a blogování
-- Networking a komunita
+Mám rád moderní technologie a neustále se učím nové věci.
 
-## 🌍 Komunita
+- **Jazyky:** TypeScript, Python, C#
+- **Web:** React, Next.js, Quartz (samozřejmě!)
+- **Tools:** Git, Docker, Linux
 
-Aktivně se podílím na budování tech a libertariánské komunity v Praze:
-- Organizace meetupů a eventů
-- Psaní článků na blog
-- Koordinace lokálních aktivit
-- Mentoring mladých podnikatelů
+## 📸 Zájmy
 
-## 📖 Vzdělání
+Mimo svět jedniček a nul mě baví:
+- **Fotografie:** Zachycování momentů z mých cest a akcí.
+- **Politika:** Sledování dění a aktivní zapojení do diskusí o svobodě.
+- **Cestování:** Objevování nových kultur a míst.
 
-**Smíchovská střední průmyslová škola a gymnázium (SSPŠaG)**
-- Obor: Kybernetická bezpečnost
-- Praha, Česká republika
-- Aktuálně student
+## 📬 Kontakt
+
+Chceš se mnou spolupracovat nebo jen pokecat?
+
+- **Email:** [samuel@paluba.me](mailto:samuel@paluba.me)
+- **GitHub:** [SamuelPalubaCZ](https://github.com/SamuelPalubaCZ)
+- **Twitter/X:** [@SamuelPaluba](https://twitter.com/SamuelPaluba)
 
 ---
-
-→ [[contact|Kontaktuj mě]] | [[projects/index|Moje projekty]]
+*GPG Key Fingerprint: Coming soon...*

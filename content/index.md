@@ -1,35 +1,40 @@
 ---
 title: Samuel Paluba
-description: Zakladatel startupu, student kybernetické bezpečnosti a politik z Prahy
+permalink: index
 tags:
-  - about
   - homepage
+  - garden
 ---
 
-# 👋 Ahoj!
+# 👋 Vítejte
 
-Jsem **Samuel Paluba** (*2009), zakladatel startupu a student kybernetické bezpečnosti na [SSPŠaG](https://ssps.cz) v Praze.
+Jsem **Samuel Paluba** (*2009), student kybernetické bezpečnosti na [SSPŠaG](https://ssps.cz), zakladatel startupu a nadšenec do svobody a technologií.
 
-Zajímám se o IT, kybernetiku, politiku, fotografii a další témata. Aktivně se podílím na několika projektech zaměřených na technologie, svobodu a vzdělávání.
+Toto je můj osobní web a digitální zahrada. Najdete zde informace o mých projektech, myšlenky a kontakty.
 
-## 🚀 Aktuální projekty
+<div class="grid-cards">
 
-- **[[projects/thinkhome|ThinkHome]]** - CEO a zakladatel
-- **[[projects/libertyloft|LibertyLoft]]** - Spoluzakladatel
-- **[[projects/students-for-liberty|Students for Liberty CZ]]** - Lokální koordinátor
-- **[[education/ssps|Smíchovská SPŠ]]** - Student kybernetické bezpečnosti
+### 👤 [[about|O mně]]
+Více o mém vzdělání, dovednostech a životním příběhu.
 
-## 📚 Oblasti zájmu
+### 🚀 [[projects|Projekty]]
+Na čem aktuálně pracuji? Startup ThinkHome, LibertyLoft a další.
 
-- [[topics/cybersecurity|Kybernetická bezpečnost]]
-- [[topics/politics|Politika a svoboda]]
-- [[topics/technology|IT a technologie]]
-- [[topics/photography|Fotografie]]
+### 🌱 [[thoughts|Myšlenky]]
+Blog, poznámky a úvahy o kybernetice, politice a světě okolo nás.
 
-## 📬 Kontakt
-
-Pokud potřebuješ cokoliv, neostýchej se mě kontaktovat přes [[contact|kontaktní stránku]].
+</div>
 
 ---
 
-*Meow :3 🐈🐈‍⬛*
+## 📍 Rychlý přehled
+
+- **Aktuálně studuji:** Kybernetická bezpečnost @ SSPŠaG
+- **Hlavní projekt:** [[projects/thinkhome|ThinkHome]]
+- **Zájmy:** IT, [kryptoměny](https://bitcoin.org), politika, fotografie
+
+> [!info] Hledáte kontakt?
+> Přejděte na stránku [[about#📬 Kontakt|Kontakt]] nebo mi napište přímo na [samuel@paluba.me](mailto:samuel@paluba.me).
+
+---
+*Meow :3 🐈‍⬛*
