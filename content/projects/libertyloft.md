@@ -1,53 +1,66 @@
 ---
-title: LibertyLoft
-description: Libertariánský prostor a komunita v Praze
+title: "LibertyLoft"
 tags:
   - projects
   - politics
   - community
+description: "LibertyLoft – komunitní prostor a meetupy pro svobodomyslné lidi v Praze."
+date: 2025-12-07
+draft: false
 ---
 
 # LibertyLoft
 
-## 🏛️ O projektu
+## O projektu
 
-**LibertyLoft** je prostor pro setkávání libertariánů a pořádání meetupů v Praze. Jako spoluzakladatel se podílím na budování svobodné komunity.
+**LibertyLoft** je komunitní a eventový prostor v Praze pro lidi, které zajímá svoboda, kryptoměny, ekonomie a technologie.
 
-**Web:** [libertyloft.cz](https://www.libertyloft.cz)
-
-## 👨‍💼 Moje role
-
-### Spoluzakladatel
-- Koordinace eventů a meetupů
-- Budování komunity
-- Psaní článků na blog
-- Organizace diskuzí
-
-## 🎯 Aktivity
-
-### Meetupy
-- Pravidelná setkání libertariánů
-- Diskuze o svobodě a politice
-- Networking
-- Vzděl ávací eventy
-
-### Obsah
-- Blog články
-- Diskuze aktuálních témat
-- Sdílení libertariánských myšlenek
-
-## 📅 Plánované akce
-
-Aktuální informace o plánovaných meetupech najdeš na [libertyloft.cz](https://www.libertyloft.cz).
-
-## 💡 Témata
-
-- Individuální svoboda
-- Svobodný trh
-- Omezení státní moci
-- Svoboda slova
-- Vlastnická práva
+Jako spoluzakladatel pomáhám s budováním komunity a organizací akcí.
 
 ---
 
-→ [[index|Všechny projekty]] | [[students-for-liberty|Students for Liberty CZ]]
+## Moje role
+
+### Spoluzakladatel
+
+- Koordinace meetupů a přednášek  
+- Spolupráce s řečníky a partnery  
+- Tvorba obsahu (články, pozvánky, sociální sítě)  
+- Facilita diskuzí a networking
+
+---
+
+## Co se v LibertyLoftu děje
+
+### Meetupy
+
+- Pravidelná setkání libertariánů a lidí, které zajímá svoboda  
+- Diskuse o ekonomii, politice, technologiích a kryptoměnách  
+- Networking studentů, podnikatelů a profesionálů
+
+### Obsah
+
+- Blogové články a reporty z akcí  
+- Pozvánky na meetupy a speciální eventy  
+- Sdílení libertariánských myšlenek a zdrojů
+
+---
+
+## Témata
+
+- Individuální svoboda a zodpovědnost  
+- Svobodný trh a podnikání  
+- Omezení státní moci  
+- Svoboda slova a vlastnická práva  
+- Kryptoměny a finanční svoboda
+
+---
+
+## Více informací
+
+Aktuální informace o akcích najdeš na:
+
+- 🌐 Webu: `libertyloft.cz`  
+- 🗓 Stránkách s akcemi a newsletteru
+
+> Pokud tě téma svobody zajímá, sleduj akce LibertyLoftu a klidně se ozvi – rád propojím lidi, kteří chtějí něco dělat.

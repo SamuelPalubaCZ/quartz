@@ -1,40 +1,46 @@
 ---
-title: Samuel Paluba
-permalink: index
+title: "Samuel Paluba"
 tags:
   - homepage
   - garden
+description: "Osobní web Samuela Paluby – studenta kybernetické bezpečnosti a zakladatele ThinkHome.org."
+date: 2025-12-07
+draft: false
 ---
 
-# 👋 Vítejte
+# Samuel Paluba
 
-Jsem **Samuel Paluba** (*2009), student kybernetické bezpečnosti na [SSPŠaG](https://ssps.cz), zakladatel startupu a nadšenec do svobody a technologií.
+Jsem Samuel (*2009), student kybernetické bezpečnosti v Praze, zakladatel startupu **ThinkHome.org** a nadšenec do svobody, technologií a decentralizovaných řešení.
 
-Toto je můj osobní web a digitální zahrada. Najdete zde informace o mých projektech, myšlenky a kontakty.
-
-<div class="grid-cards">
-
-### 👤 [[about|O mně]]
-Více o mém vzdělání, dovednostech a životním příběhu.
-
-### 🚀 [[projects|Projekty]]
-Na čem aktuálně pracuji? Startup ThinkHome, LibertyLoft a další.
-
-### 🌱 [[thoughts|Myšlenky]]
-Blog, poznámky a úvahy o kybernetice, politice a světě okolo nás.
-
-</div>
+Tento web je moje **osobní stránka a digitální zahrada**. Najdeš tu informace o mně, mých projektech a myšlenkách.
 
 ---
 
-## 📍 Rychlý přehled
+## Co dělám
 
-- **Aktuálně studuji:** Kybernetická bezpečnost @ SSPŠaG
-- **Hlavní projekt:** [[projects/thinkhome|ThinkHome]]
-- **Zájmy:** IT, [kryptoměny](https://bitcoin.org), politika, fotografie
-
-> [!info] Hledáte kontakt?
-> Přejděte na stránku [[about#📬 Kontakt|Kontakt]] nebo mi napište přímo na [samuel@paluba.me](mailto:samuel@paluba.me).
+- 🎓 Studuji obor **Kybernetická bezpečnost** na SSPŠaG v Praze  
+- 🧠 Vedu startup **ThinkHome.org** – all-in-one IT partner a „IT bez starostí“  
+- 🗽 Spoluzakládám **LibertyLoft** – komunitu a meetup prostor pro libertariány v Praze  
+- 🌍 Jsem lokální koordinátor **Students for Liberty CZ**
 
 ---
-*Meow :3 🐈‍⬛*
+
+## Kam dál?
+
+- 👉 [[about|O mně]] – kdo jsem, co umím, kde studuji  
+- 🧩 [[projects|Projekty]] – ThinkHome, LibertyLoft, Students for Liberty CZ  
+- 🌱 [[garden|Digitální zahrada]] – poznámky, nápady, myšlenky  
+- ✉️ [[contact|Kontakt]] – jak se mi ozvat
+
+---
+
+## Rychlý přehled
+
+- Aktuálně: kybernetická bezpečnost @ SSPŠaG  
+- Hlavní projekt: [[projects/thinkhome|ThinkHome.org]]  
+- Zájmy: otevřený software a hardware, Bitcoin, svoboda, politika, fotografie, networking
+
+> Hledáš spolupráci, konzultaci nebo jen chceš pokecat?  
+> → Mrkni na [[contact|Kontakt]].
+
+---

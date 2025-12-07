@@ -1,46 +1,51 @@
 ---
-title: Projekty
-description: Přehled všech projektů, na kterých se podílím
+title: "Projekty"
 tags:
   - projects
-  - overview
+  - portfolio
+description: "Přehled projektů, na kterých pracuji – ThinkHome, LibertyLoft, Students for Liberty CZ."
+date: 2025-12-07
+draft: false
 ---
 
-# 🚀 Moje projekty
+# Projekty
 
-Aktivně se podílím na několika projektech zaměřených na technologie, svobodu a vzdělávání.
+Věci, na kterých pracuji a které mi dávají smysl.
+
+---
 
 ## Aktivní projekty
 
-### [[thinkhome|ThinkHome]]
-**Role:** CEO a zakladatel  
-**Zaměření:** IT startup  
-**Web:** [thinkhome.org](https://www.thinkhome.org)
+### [[projects/thinkhome|ThinkHome.org]]
 
-Startup zaměřený na poskytování IT služeb a prodej repasovaných notebooků.
+> Role: zakladatel & CEO
 
-### [[libertyloft|LibertyLoft]]
-**Role:** Spoluzakladatel  
-**Zaměření:** Libertariánská komunita  
-**Web:** [libertyloft.cz](https://www.libertyloft.cz)
-
-Prostor pro setkávání libertariánů a pořádání meetupů v Praze.
-
-### [[students-for-liberty|Students for Liberty CZ]]
-**Role:** Lokální koordinátor  
-**Zaměření:** Studentská politická organizace  
-**Web:** [studentizasvoboducz.cz](https://studentizasvoboducz.cz)
-
-Česká pobočka mezinárodní organizace Students for Liberty.
-
-## Komunitní aktivity
-
-### The Things Network Prague
-**Role:** Contributor  
-**Zaměření:** IoT mesh network
-
-Přispívání k budování otevřené IoT sítě v Praze.
+All-in-one IT partner: správa IT, chytré domácnosti, repasy notebooků, cloud, bezpečnost a konzultace. Cíl: IT, které prostě funguje, a klient se může soustředit na svůj hlavní byznys.
 
 ---
 
-→ [[../about|O mně]] | [[../contact|Kontakt]]
+### [[projects/libertyloft|LibertyLoft]]
+
+> Role: spoluzakladatel
+
+Komunitní prostor a meetupy v Praze zaměřené na svobodu, kryptoměny a technologie. Diskuse, networking, přednášky.
+
+---
+
+### [[projects/students-for-liberty-cz|Students for Liberty CZ]]
+
+> Role: lokální koordinátor
+
+Studentské akce, přednášky a debaty na téma svobody, ekonomie a občanské společnosti.
+
+---
+
+## Školní a menší projekty
+
+- Projekty v rámci studia kybernetické bezpečnosti (lab cvičení, menší nástroje, automatizace)  
+- Tento web – běží na Quartz v4 a je propojený s Obsidianem jako digitální zahrada  
+
+---
+
+> Více technických detailů najdeš na mém GitHubu:  
+> [github.com/SamuelPalubaCZ](https://github.com/SamuelPalubaCZ)
