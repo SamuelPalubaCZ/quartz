@@ -116,9 +116,6 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       Plugin.CNAME(),
-      Plugin.CustomOgImages({
-        colorScheme: "dark",
-      }),
     ],
   },
 }
