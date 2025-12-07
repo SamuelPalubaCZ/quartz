@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "vercel",
     },
-    locale: "en-US",
+    locale: "cs-CZ",
     baseUrl: "www.paluba.me",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
