@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "vercel",
     },
-    locale: "cs-CZ",
+    locale: "en-US",
     baseUrl: "www.paluba.me",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
@@ -93,18 +93,10 @@ const config: QuartzConfig = {
       Plugin.Latex({ 
         renderEngine: "katex" 
       }),
-      // Additional transformers
       Plugin.HardLineBreaks(),
-      Plugin.Citations({
-        bibliographyFile: "./content/bibliography.bib",
-        suppressBibliography: false,
-        linkCitations: true,
-        csl: "apa",
-      }),
     ],
     filters: [
       Plugin.RemoveDrafts(),
-      Plugin.ExplicitPublish(),
     ],
     emitters: [
       Plugin.AliasRedirects(),
@@ -124,19 +116,8 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       Plugin.CNAME(),
-      // Custom OG images for social sharing
       Plugin.CustomOgImages({
         colorScheme: "dark",
-        font: {
-          title: {
-            family: "Inter",
-            weight: 700,
-          },
-          description: {
-            family: "Inter",
-            weight: 400,
-          },
-        },
       }),
     ],
   },
