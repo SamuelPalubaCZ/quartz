@@ -1,112 +1,204 @@
 ---
-title: "ThinkHome.org"
+title: ThinkHome s.r.o.
+description: All-in-one IT Partner pro SMB segment
 tags:
-  - projects
-  - startup
+  - projekt
   - business
-description: "ThinkHome.org – all-in-one IT partner a IT bez starostí pro domácnosti a firmy."
-date: 2025-12-07
-draft: false
-aliases:
-  - "ThinkHome"
-  - "ThinkHome s.r.o."
+  - msp
+date: 2025-12-08
 ---
 
-# ThinkHome.org
+# ThinkHome s.r.o.
 
-## O projektu
+**All-in-one IT Partner | IČO: 23893591**
 
-**ThinkHome** je můj hlavní podnikatelský projekt. Jde o českou IT firmu, která funguje jako **all-in-one IT partner** – od domácností a jednotlivců až po malé a střední firmy.
+## Executive Summary
 
-Klient si ThinkHome najme a **nemusí řešit nic kolem IT**.
+ThinkHome s.r.o. je Managed Service Provider (MSP) zaměřený na malé a střední podniky (5-50 zaměstnanců) v České republice. Založil jsem společnost v roce 2024 s vizí poskytnout SMB firmám enterprise-level IT služby za dostupné ceny.
 
-Web: <https://thinkhome.org>
+### Klíčové hodnoty
+- **IT bez starostí** – Kompletní delegace technických starostí
+- **Digital natives** – Mladý tým born in classroom, built for business
+- **Rychlost & agilita** – Odpověď <2 hodiny, ne týdny
 
----
+## Business Model
 
-## Moje role
+### Problém: Digital Gap
 
-### Zakladatel & CEO
+Malé firmy jsou:
+- **Příliš velké** pro ad-hoc řešení
+- **Příliš malé** pro vlastní IT oddělení
+- **Vystavené** bezpečnostním rizikům (ransomware, phishing)
 
-Zodpovídám za:
+### Řešení: Turn-key IT Management
 
-- Vizi a směřování firmy  
-- Obchodní strategii a komunikaci s klienty  
-- IT konzultace, návrh řešení a technické architektury  
-- Koordinaci projektů a spolupráci s týmem  
-- Budování značky a procesů (onboarding, SLA, monitoring, dokumentace)
+ThinkHome přebírá 100% IT agendy:
+1. **Monitoring** – 24/7 remote monitoring infrastruktury
+2. **Správa** – User accounts, licence, hardware tracking
+3. **Support** – <2h response time na kritické incidenty
+4. **Konzultace** – Strategické IT plánování
 
----
+## Služby
 
-## Co ThinkHome řeší
+### 1. Turn-key IT Management
+- 24/7 remote monitoring (RMM tools)
+- User account management
+- Software asset management
+- Incident response (<2h SLA)
+- Monthly reporting & consultations
 
-- Chaos v IT – různé služby a zařízení bez konceptu  
-- Neefektivní nebo žádné zálohování  
-- Slabá bezpečnost (hesla, aktualizace, otevřené porty)  
-- Neexistující dokumentace a zodpovědná osoba  
-- Potřeba někoho, kdo umí i **IT vysvětlit lidsky**
+### 2. Cloud & Communication
+- **Google Workspace** administrace (cíl: Premier Partner)
+- **Microsoft 365** správa (cíl: Solutions Partner)
+- **VoIP** (3CX) – úspora až 80% oproti tradičním linkám
+- Cloud migration & optimization
 
----
+### 3. Cybersecurity & Compliance
+- **NIS2 Directive** compliance audity
+- **ZoKB** (Zákon o kybernetické bezpečnosti)
+- Penetration testing
+- MFA implementace
+- Security awareness training (phishing simulations)
 
-## Hlavní služby
+### 4. Network Infrastructure
+- Ubiquiti / UniFi síťová řešení
+- Enterprise Wi-Fi design
+- VLAN segmentace
+- VPN pro remote work
 
-- **Turn-key IT správa**  
-  - Kompletní péče o zařízení, sítě a servery  
-  - Monitoring, vzdálená podpora, základní SLA  
+### 5. Hardware Lifecycle (Circular Economy)
+**Profit-sharing model**: 
+- ThinkHome odkoupí vyřazený hardware
+- Data sanitizace (NIST 800-88 standard)
+- Refurbishment & reprodej
+- **20% zisku** vráceno klientovi
 
-- **Cloud & identity**  
-  - Microsoft 365, Google Workspace, další cloudové služby  
-  - Správa účtů, práv, onboarding/offboarding, zálohy  
+### 6. Web & Software Development
+- **Standard**: WordPress + Breakdance builder
+- **Advanced**: Custom Next.js web apps
+- **E-commerce**: WooCommerce / Shopify integration
 
-- **Sítě, Wi-Fi a infrastruktura**  
-  - Návrh a správa firemní/ domácí sítě (např. UniFi)  
-  - Kamerové systémy, IoT, chytrá domácnost  
+### 7. AI Automation & Consulting
+- Custom chatbot development
+- Prompt engineering training
+- Workflow automatizace s AI
+- LLM integration do existujících systémů
 
-- **Weby a aplikace**  
-  - Menší weby, landing pages, interní nástroje  
-  - Vývoj na míru podle potřeb klienta  
+### 8. Training & Education
+- Cybersecurity hygiene (phishing awareness)
+- AI efficiency pro zaměstnance
+- Microsoft 365 / Google Workspace onboarding
 
-- **Repasovaná technika**  
-  - Dodávka a připravení repasovaných notebooků  
-  - Přenos dat, nastavení pracovního prostředí  
+## Tech Stack
 
----
+### Frontend
+- **Framework**: Next.js 14 (App Router)
+- **Styling**: Tailwind CSS
+- **UI Components**: Custom design system
 
-## Cílové skupiny
+### Backend & CMS
+- **CMS**: Sanity.io / Strapi (headless)
+- **Database**: PostgreSQL / Supabase
+- **Auth**: Clerk / Auth0
 
-- Malé a střední firmy bez vlastního IT oddělení  
-- Domácnosti a jednotlivci, kteří chtějí, aby jim IT prostě fungovalo  
-- Menší provozy – kanceláře, kavárny, e-shopy, služby  
-- Školy a vzdělávací instituce s potřebou základní IT infrastruktury
+### Infrastructure
+- **Hosting**: Vercel (global edge)
+- **CDN**: Cloudflare
+- **Monitoring**: Uptime Kuma, Grafana
+- **RMM**: TBD (NinjaOne / Atera)
 
----
+### Analytics
+- **Privacy-first**: PostHog / Plausible
+- **GDPR compliance** by design
+
+## Brand Identity
+
+### Visual Design
+**Swiss-style modernism**:
+- **Typography**: Satoshi (Black/Bold/Regular)
+- **Colors**: 
+  - Onyx Black (#000000) – hlavní
+  - Paper White (#FFFFFF) – pozadí
+  - Signal Red (#FF0000) – akce & alerty
+  - Eco-Green – pouze Hardware Repurposing sekce
+
+### Messaging
+- **Headline**: "IT bez starostí pro váš byznys"
+- **USP**: "Digital natives. Born in the classroom, built for business."
+- **Positioning**: Agile alternativa k tradičním MSP
 
 ## Tým
 
-ThinkHome není one-man show – postupně budujeme tým lidí, kteří kombinují:
+| Role | Jméno | Zodpovědnost |
+|------|-------|-------------|
+| CEO & IT Consultant | Samuel Paluba | Strategie, sales, konzultace |
+| CTO & Security Expert | Ondřej Jansa | Technická architektura, Next.js, security |
+| Hardware Lead | Vojtěch Pell | Circular Economy centrum, WordPress |
+| Senior Full-Stack Dev | Erdic Daskin | Custom web apps, UI/UX |
+| Design & Marketing | Kateřina Břeňová | Brand identity, kampaně |
 
-- technické dovednosti (správa IT, vývoj, sítě),  
-- design a UX,  
-- marketing a obchodní komunikaci.
+## Go-to-Market Strategy
 
-Já (Samuel) mám na starosti vedení, vizi, klíčové klienty a technickou část.
+### Target Segment
+- **Firma**: 5-50 zaměstnanců
+- **Vertikály**: 
+  - Profesní služby (právníci, účetní)
+  - E-commerce
+  - Creative agencies
+  - Medical offices
+
+### Acquisition Channels
+1. **LinkedIn outreach** – cold messaging decision makers
+2. **Google Ads** – search intent ("IT podpora Praha")
+3. **Referral program** – 10% commission pro partnery
+4. **Content marketing** – technické blog posts (SEO)
+
+### Pricing Model
+- **Retainer**: 15 000 - 50 000 Kč/měsíc (podle velikosti firmy)
+- **Project-based**: Custom quotes
+- **Hardware buyback**: Revenue share
+
+## Regulatory Advantage: NIS2
+
+**NIS2 Directive** vstupuje v platnost 2024-2025. ThinkHome poskytuje:
+- Gap analysis pro compliance
+- Implementace požadovaných opatření
+- Ongoing monitoring & reporting
+
+**Target**: Firmy které spadají pod NIS2 ale nemají in-house security team.
+
+## Competitive Advantage
+
+### Proč ThinkHome?
+1. **Rychlost** – <2h response vs. tradiční MSP (24-48h)
+2. **Cena** – 30-40% levnější díky lean structure
+3. **Modernita** – Cloud-native stack, AI integration
+4. **Lokalita** – Praha + remote celá ČR
+5. **Sustainability** – Circular Economy buy-back program
+
+## Vize 2025-2026
+
+### Q1 2025
+- ✅ Website launch (paluba.me, thinkhome.org)
+- 🎯 První 3 retainer klienti
+- 🎯 Google Partner status
+
+### Q2-Q3 2025
+- 🎯 10+ retainer klientů
+- 🎯 Microsoft Solutions Partner
+- 🎯 Hiring: Junior DevOps engineer
+
+### Q4 2025
+- 🎯 20+ klientů
+- 🎯 MRR 300 000+ Kč
+- 🎯 Rozšíření do Brna
+
+## Kontakt
+
+**Web**: [thinkhome.org](https://thinkhome.org)  
+**Email**: [samuel.paluba@thinkhome.org](mailto:samuel.paluba@thinkhome.org)  
+**Telefon**: +420 XXX XXX XXX  
 
 ---
 
-## Jak spolupráce typicky vypadá
-
-1. Úvodní call / schůzka – pochopíme potřeby klienta  
-2. Základní IT audit – zmapování aktuálního stavu  
-3. Návrh balíčku služeb (paušál / projekt / kombinace)  
-4. Nasazení řešení + dokumentace  
-5. Průběžná správa a pravidelné konzultace
-
----
-
-## Kontakt na ThinkHome
-
-- Web: <https://thinkhome.org>  
-- E-mail: `info@thinkhome.org`  
-- GitHub: <https://github.com/thinkhome>
-
-> Pokud hledáš pomoc s IT (firemním nebo domácím), nejlepší start je napsat na `info@thinkhome.org` nebo využít kontaktní formulář na webu.
+← [[projects|Zpět na projekty]] | [[index|Domů]]
