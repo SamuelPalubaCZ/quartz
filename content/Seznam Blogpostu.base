@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.containsAny("Blog")
+        - file.folder.contains("Blog")
+    order:
+      - title
+      - tags
+      - date
+      - done
+    sort:
+      - property: title
+        direction: ASC
+      - property: formula.Untitled
+        direction: ASC
+    columnSize:
+      note.title: 787
+      note.tags: 451
+      note.date: 124
+  - type: cards
+    name: View

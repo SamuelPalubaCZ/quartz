@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "cs-CZ",
     baseUrl: "www.paluba.me",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Šablony", "Secret"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#fafafa",
-          lightgray: "#e5e7eb",
-          gray: "#9ca3af",
-          darkgray: "#374151",
-          dark: "#111827",
-          secondary: "#2563eb",
-          tertiary: "#7c3aed",
-          highlight: "rgba(37, 99, 235, 0.1)",
-          textHighlight: "#fef3c7",
+          light: "#ffffff",
+          lightgray: "#f5f5f5",
+          gray: "#666666",
+          darkgray: "#333333",
+          dark: "#000000",
+          secondary: "#000000",
+          tertiary: "#666666",
+          highlight: "rgba(0, 0, 0, 0.05)",
+          textHighlight: "#eeeeee",
         },
         darkMode: {
-          light: "#0f172a",
-          lightgray: "#1e293b",
-          gray: "#475569",
-          darkgray: "#cbd5e1",
-          dark: "#f1f5f9",
-          secondary: "#60a5fa",
-          tertiary: "#a78bfa",
-          highlight: "rgba(96, 165, 250, 0.15)",
-          textHighlight: "#422006",
+          light: "#000000",
+          lightgray: "#111111",
+          gray: "#999999",
+          darkgray: "#cccccc",
+          dark: "#ffffff",
+          secondary: "#ffffff",
+          tertiary: "#999999",
+          highlight: "rgba(255, 255, 255, 0.05)",
+          textHighlight: "#333333",
         },
       },
     },
@@ -66,7 +66,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ 
+      Plugin.ObsidianFlavoredMarkdown({
         enableInHtmlEmbed: false,
         parseArrows: true,
         parseTags: true,
@@ -82,7 +82,7 @@ const config: QuartzConfig = {
         showByDefault: true,
         collapseByDefault: false,
       }),
-      Plugin.CrawlLinks({ 
+      Plugin.CrawlLinks({
         markdownLinkResolution: "shortest",
         prettyLinks: true,
         openLinksInNewTab: false,
@@ -90,8 +90,8 @@ const config: QuartzConfig = {
       Plugin.Description({
         descriptionLength: 150,
       }),
-      Plugin.Latex({ 
-        renderEngine: "katex" 
+      Plugin.Latex({
+        renderEngine: "katex"
       }),
       Plugin.HardLineBreaks(),
     ],

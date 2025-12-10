@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("Článek")
+        - file.folder.contains("Články")
+    order:
+      - title
+      - tags
+      - date
+      - done
+    sort:
+      - property: formula.Untitled
+        direction: ASC
+    columnSize:
+      note.title: 787
+      note.tags: 451
+      note.date: 124
