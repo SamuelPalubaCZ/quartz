@@ -4,8 +4,5 @@ title: Samuel Paluba
 
 Minimalist. Developer. Founder.
 
-*   [[About Me]]
-*   [[Projekty]]
+*   [[About Me|Enter]]
 *   [[Contact]]
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2S-7akVGFUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

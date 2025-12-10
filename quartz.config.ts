@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "cs-CZ",
     baseUrl: "www.paluba.me",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Šablony", "Secret"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

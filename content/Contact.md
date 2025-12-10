@@ -2,13 +2,19 @@
 title: Contact
 ---
 
-You can reach me via email or phone.
+> Ready to do something exceptional? Let's talk.
+
+I am open for everything.
+
+### Direct
 
 *   **Email**: [samuel@paluba.me](mailto:samuel@paluba.me)
-*   **Phone**: +420 607 680 730
+*   **Phone**: [+420 728 981 602](tel:+420728981602)
 
-### Socials
+### Digital
 
+*   [LinkedIn](https://linkedin.com/PalubaSamuel)
+*   [Twitter](https://twitter.com/PalubaSamuel)
 *   [GitHub](https://github.com/SamuelPalubaCZ)
-*   [LinkedIn](https://linkedin.com/in/samuel-paluba)
-*   [X](https://x.com/PalubaSamuel)
+*   [Instagram](https://instagram.com/bwvvdw)
+*   [ThinkHome](https://www.thinkhome.org)

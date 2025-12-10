@@ -2,10 +2,15 @@
 title: About Me
 ---
 
-I am Samuel Paluba, a minimalist, web developer, and founder tailored by the rigorous standards of modern web design and functionality.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2S-7akVGFUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-I focus on creating premium, user-centric experiences. My work spans from building innovative startups like **ThinkHome** to crafting digital identities that stand out.
+I am Samuel Paluba, a minimalist, web developer, and founder. I blend rigorous standards of modern web design with functionality to build exceptional digital experiences.
 
-I believe in the power of minimalism—cutting through the noise to deliver value.
+Currently, I am building **[ThinkHome](https://thinkhome.org)**, where we provide complete IT management and support under one roof. I focus on creating premium, user-centric experiences that solve real problems.
 
-[Back to Home](/)
+### Explore
+
+*   [[Projekty|My Projects]]
+*   [[Blog]]
+*   [[Články|Articles]]
+*   [[Contact]]
